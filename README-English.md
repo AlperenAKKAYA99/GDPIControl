@@ -1,4 +1,4 @@
-# GDPIControl-Türkçe
+# GDPIControl-English
 - This project is developed for the educational use of software and network security techniques. It can be used for training, research, and development purposes. However, the legal responsibility regarding the use of the software entirely lies with the user.
 - GDPIControl is an open-source project that provides an intuitive and user-friendly graphical interface for the Goodbye DPI application. With this tool, you can easily manage and apply Goodbye DPI's advanced DPI bypass features.
 
